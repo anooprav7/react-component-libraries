@@ -27,14 +27,7 @@ A list of React component libraries in no particular order.
 [ \| ]()
 [:octocat:]()
 
-
-
-
-
-
-
-
-### Used https://www.tablesgenerator.com/markdown_tables to generate md table
+### Used [Markdown table generator](https://www.tablesgenerator.com/markdown_tables) for the table
 
 
 

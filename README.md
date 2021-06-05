@@ -23,6 +23,7 @@ A list of React component libraries in no particular order.
 | [ Blueprint \| Palantir ](https://blueprintjs.com/)              |    TS   |                                 SCSS                                 |        chai, enzyme, sinon        |   [:octocat:](https://github.com/palantir/blueprint)  |
 | [ Gestalt \| Pinterest ](https://gestalt.netlify.app/)           | JS+Flow |                                  CSS                                 |       jest, testing-library       |   [:octocat:](https://github.com/pinterest/gestalt)   |
 | [ Evergreen \| segmentio ](https://evergreen.segment.com/)       |    JS   |                                glamor                                |       jest, testing-library       |  [:octocat:](https://github.com/segmentio/evergreen)  |
+| [ Chakra UI ](https://chakra-ui.com/)                            |    TS   |                                emotion                               |       jest, testing-library       |  [:octocat:](https://github.com/chakra-ui/chakra-ui)  |
 
 ### md Templates
 [ \| ]()
